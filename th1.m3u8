@@ -1,0 +1,287 @@
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX 
+http://183.89.116.113:1009
+
+Full DTV Link 1
+==========
+#EXTM3U
+#EXTINF:-1,ททบ 5 HD ช่อง 1
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+#EXTINF:-1,NBT HD 2
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+#EXTINF:-1,Thai PBS HD 3
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+#EXTINF:-1,TPTV 10
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+#EXTINF:-1,TNN ช่อง 16
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+#EXTINF:-1,NEW 18
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+#EXTINF:-1,NATION 22
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+#EXTINF:-1,workpoint 23
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#EXTINF:-1,true4U | 24
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+#EXTINF:-1,G''MM' 25
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+#EXTINF:-1,CHANNEL 8 กดเลข 27
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+#EXTINF:-1,MONO29
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+#EXTINF:-1,MCOT HD | 30
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+#EXTINF:-1,one HD 31
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+#EXTINF:-1,ไทยรัฐ TV HD 32
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1,3 HD 33
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+#EXTINF:-1,AMARIN HD 34
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+#EXTINF:-1,7 HD 35
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+#EXTINF:-1,PPTV HD 36
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+
+#EXTINF:-1,Boomerang
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
+#EXTINF:-1,CARTOON CLUB CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
+#EXTINF:-1,FAN tv
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
+#EXTINF:-1,KIX
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
+#EXTINF:-1,M CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#EXTINF:-1,MONO PLUS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
+#EXTINF:-1,Paramount CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+#EXTINF:-1,T SPORTS Channel
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
+#EXTINF:-1,thrill
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+#EXTINF:-1,TRACE SPORT STARS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
+#EXTINF:-1,ZEE หนัง
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+#EXTINF:-1,สบายดี TV
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+
+-------------++--
+
+ชุดกิฬา+หนัง+สารคดี+การ์ตูน 1
+
+#EXTINF:0, PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0, PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0, PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0, PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0, PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0, SkynetsportHD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0, Skynetsport1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0, Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0, Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0, NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0, NFLNetwork
+https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:0, Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0, HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo HD
+https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeo Wild_TH
+https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo People
+https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, MYSCIHD
+https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:0, BBCEARTH
+https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:0, T_Sports
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:0, SMM_TV
+https://www.livedoomovie.com/02_SMM_TV_480p/chunklist.m3u8
+#EXTINF:0, NHANG_DUNK
+https://www.livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
+#EXTINF:0, MANGORN
+https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:0, MONO_Plus
+https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:0, Zee_Nung
+https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:0, FOX_Life
+https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
+#EXTINF:0, Thrill
+https://www.livedoomovie.com/02_Thrill_720p/chunklist.m3u8
+#EXTINF:0, SCM
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:0, CMM
+https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:0, Comedy
+https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:0, Baby_TV_HD
+https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:0, Miao_Mi
+https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:0, Nick_Jr
+https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
+#EXTINF:0, Boomerang
+https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:0, FANMUSICHD
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, SabaideeTV
+https://www.livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+#EXTINF:0, Wish_Channel
+https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
+#EXTINF:0, MTV_China
+https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:0, Channel_V
+https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:0, MTV_Asia
+https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:0, MTV_Live_HD
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0, KIX_Thailand
+https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:0, NHK_WORLD_TV
+https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+-------------------------------------------------------------------------------
+
+
+==========
+Full DTV Link 2
+==========
+#EXTM3U
+#EXTINF:-1,ททบ 5 HD ช่อง 1
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+#EXTINF:-1,NBT HD 2
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+#EXTINF:-1,Thai PBS HD 3
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+#EXTINF:-1,TPTV 10
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+#EXTINF:-1,TNN ช่อง 16
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+#EXTINF:-1,NEW 18
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+#EXTINF:-1,NATION 22
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+#EXTINF:-1,workpoint 23
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#EXTINF:-1,true4U | 24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+#EXTINF:-1,G''MM' 25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+#EXTINF:-1,CHANNEL 8 กดเลข 27
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+#EXTINF:-1,MONO29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+#EXTINF:-1,MCOT HD | 30
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+#EXTINF:-1,one HD 31
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+#EXTINF:-1,ไทยรัฐ TV HD 32
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1,3 HD 33
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+#EXTINF:-1,AMARIN HD 34
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+#EXTINF:-1,7 HD 35
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+#EXTINF:-1,PPTV HD 36
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
