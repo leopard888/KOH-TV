@@ -189,13 +189,13 @@ https://live.youlive-cdn.com/02_MChannel_480p/chunklist.m3u8
 https://live.we-play.tv/app/history/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
-https://live.youlive-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 https://live.we-play.tv/app/h2/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
-https://live.youlive-cdn.com/02_H2HD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
 https://live.youlive-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
@@ -204,7 +204,7 @@ https://live.youlive-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
 https://live.we-play.tv/app/discovery/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
-https://live.youlive-cdn.com/02_DiscoveryChannel/chunklist.m3u8
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD TH
 https://live.youlive-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
@@ -216,7 +216,7 @@ https://live.youlive-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
 https://live.we-play.tv/app/natgeo/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
-https://live.youlive-cdn.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC
 https://live.youlive-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
@@ -228,7 +228,7 @@ https://live.youlive-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
 https://live.youlive-cdn.com/02_AnimalPlanet/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
-https://live.youlive-cdn.com/sumrujlok_goodtv/chunklist.m3u8
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",BLUEANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
