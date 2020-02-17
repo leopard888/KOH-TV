@@ -191,6 +191,9 @@ https://live.we-play.tv/app/history/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
+https://www.doofree88.com/streaming/hd-history_720/index.m3u8
+
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 https://live.we-play.tv/app/h2/playlist.m3u8
 
