@@ -68,8 +68,14 @@ https://live.we-play.tv/app/hbo-hd/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
+https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://live.youlive-cdn.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 https://live.we-play.tv/app/hbo-hit/playlist.m3u8
@@ -77,11 +83,17 @@ https://live.we-play.tv/app/hbo-hit/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 https://live.youlive-cdn.com/02_HBOHit_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
 https://live.we-play.tv/app/hbo-signature/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
 https://live.youlive-cdn.com/02_HBOSignature_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
+https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
 https://live.we-play.tv/app/hbo-family/playlist.m3u8
@@ -89,35 +101,59 @@ https://live.we-play.tv/app/hbo-family/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
 https://live.youlive-cdn.com/02_HBOFamily_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 https://live.youlive-cdn.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd
 https://live.youlive-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd
+https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg",Truefilm hd2
 https://live.youlive-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg",Truefilm hd2
+https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
 https://live.youlive-cdn.com/02_AXNHD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
+https://www.doofree88.com/streaming/hd-axn_720/index.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES TH
 https://live.youlive-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES TH
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
-https://live.youlive-cdn.com/02_FoxActionHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium TH
 https://live.youlive-cdn.com/02_FoxMoviesTH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
-https://live.youlive-cdn.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
+https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie TH
 https://live.youlive-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie
-https://live.youlive-cdn.com/02_FoxFamilyHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI TH
 https://live.we-play.tv/app/foxth/playlist.m3u8
@@ -126,13 +162,19 @@ https://live.we-play.tv/app/foxth/playlist.m3u8
 https://live.youlive-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI
-https://live.youlive-cdn.com/02_FoxThai_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI
+https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
 https://live.youlive-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime 
-https://live.youlive-cdn.com/02_FoxCrimeHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
+https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
 https://live.youlive-cdn.com/02_FXThailand_720p/chunklist.m3u8
@@ -206,6 +248,12 @@ https://livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
 https://live.youlive-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
+https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
+
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
 https://live.we-play.tv/app/discovery/playlist.m3u8
 
@@ -216,7 +264,10 @@ https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 https://live.youlive-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD
-https://live.youlive-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD
+https://www.doofree88.com/streaming/hd-natgeowild_720/index.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
 https://live.we-play.tv/app/natgeo/playlist.m3u8
@@ -224,14 +275,26 @@ https://live.we-play.tv/app/natgeo/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
 https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
+https://www.doofree88.com/streaming/hd-natgeo_720/index.m3u8
+
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC
 https://live.youlive-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
 https://live.youlive-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
+https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
+
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 https://live.youlive-cdn.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
 https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
@@ -272,14 +335,23 @@ https://live.youlive-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
 https://live.we-play.tv/app/cnhd/playlist.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
+https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 https://live.we-play.tv/app/disneyxd/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 https://live.youlive-cdn.com/02_DisneyXD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 https://live.we-play.tv/app/disneych/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDQ6NTQ6MzcgUE0maGFzaF92YWx1ZT1sSjRhazNTcmd2eTZFSkYxSlJCcnZRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
+https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20181110075722846215341.jpg",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -287,11 +359,17 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
+https://www.livedoomovies.com/02_Cartoon_Club_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",GANG CRRTOON
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
+https://www.livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://live.we-play.tv/app/true-epl-1/playlist.m3u8
