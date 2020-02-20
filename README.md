@@ -26,6 +26,7 @@ Extract the Nginx and Nginx-RTMP source.
 ------------------------------------------------
 
 tar -zxvf nginx-1.14.0.tar.gz
+
 unzip master.zip
 
 
@@ -45,6 +46,7 @@ Compile and install Nginx with Nginx-RTMP.
 -------------------------------------------------------
 
 make
+
 sudo make install
 
 
@@ -53,6 +55,7 @@ Now Install the Nginx init scripts.
 sudo wget https://raw.github.com/JasonGiedymin/nginx-init-ubuntu/master/nginx -O /etc/init.d/nginx
 
 sudo chmod +x /etc/init.d/nginx
+
 sudo update-rc.d nginx defaults
 
 
@@ -69,17 +72,24 @@ sudo apt-get install ffmpeg
 Create the folder structures necessary to hold the live and mobile HLS manifests and video fragments:
 ---------------------------------------------------------------------
 sudo mkdir /HLS
+
 sudo mkdir /HLS/live
+
 sudo mkdir /HLS/mobile
+
 sudo mkdir /video_recordings
+
 sudo chmod -R 777 /video_recordings
 
 
 It’s probably a good idea to have your firewall turned on if you haven’t done so already. If so, you must allow traffic into the ports used by Nginx and HLS. If you’d like to run without the firewall for now, ignore the ufw section below.
 -----------------------------------------------------------------------------
 sudo ufw limit ssh
+
 sudo ufw allow 80
+
 sudo ufw allow 1935
+
 sudo ufw enable
 
 
