@@ -80,3 +80,7 @@ rtmp://my_dot_org/live/test
 Do your remember where “live” and “test came from?  Live came from the nginx.conf file and test came from the configuration we did/will do for OBS. VLC should now carry your live stream.
 
 Because I am currently using YouTube there is no stream for this nginx configuration.
+
+
+
+https://www.worldofiptv.com/threads/how-to-install-nginx-rtmp-server-hls-on-ubuntu-16-04-easy.204/
