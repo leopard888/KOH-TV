@@ -3,38 +3,46 @@ IPTV  KOH
 How To Install Nginx RTMP Server + HLS on Ubuntu 16.04 
 
 Install the tools required to compile Nginx and Nginx-RTMP from source.
+------------------------------------------------------------------------
 
 sudo apt-get install build-essential libpcre3 libpcre3-dev libssl-dev
 
 
 Download the Nginx and Nginx-RTMP source.
+--------------------------------------------------------------
 
 wget http://nginx.org/download/nginx-1.14.0.tar.gz
+
 wget https://github.com/arut/nginx-rtmp-module/archive/master.zip
 
 
 Install the Unzip package.
+--------------------------------------------
 
 sudo apt-get install unzip
 
 
 Extract the Nginx and Nginx-RTMP source.
+------------------------------------------------
 
 tar -zxvf nginx-1.14.0.tar.gz
 unzip master.zip
 
 
 Switch to the Nginx directory.
+-------------------------------------------------
 
 cd nginx-1.14.0
 
 
 Add modules that Nginx will be compiled with. Nginx-RTMP is included.
+--------------------------------------------------------------------------
 
 ./configure --with-http_ssl_module --add-module=../nginx-rtmp-module-master
 
 
 Compile and install Nginx with Nginx-RTMP.
+-------------------------------------------------------
 
 make
 sudo make install
@@ -81,6 +89,7 @@ sudo nano /usr/local/nginx/conf/nginx.conf
 
 ลบโค๊ดทั้งหมดแล้วเอาไฟล์ด้านล่างไปใส่แทน
 ---------------------------------------------------------
+
 #user nobody;
 worker_processes  1;
 
