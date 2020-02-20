@@ -1,0 +1,82 @@
+Install nginx on Ubuntu 16 with RTMP module
+Install nginx on Ubuntu 16 with RTMP module
+
+The reason for installing nginx (pronounced:  engineX) is to support a video streaming server.
+
+Starting configuration:
+
+an Intel Core 2 Quad CPU Q9300.
+Ubuntu 16 with full updates installed
+Note in this procedure you are instructed to start nginx and it will fail to start.  Why?  This is because during the build of Ubuntu the Apache Webserver was installed and it runs on Port 80.  To prove this open a browser and place “localhost” in the url.  The Apache2 splash page should appear.  Guess what?  NGINX also runs on port 80 so we need to stop apache2 by doing:  “sudo service apache2 stop”.  Now once again drop “localhost” in the browser’s URL – nothing.  Later in this procedure we will change the port that “nginx” runs on from 80 to xxxx.
+
+Now back to the “nginx” install procedure.
+
+sudo apt-get update
+sudo apt-get install unzip
+sudo apt-get install build-essential libpcre3 libpcre3-dev libssl-dev
+wget http://nginx.org/download/nginx-1.8.0.tar.gz
+tar -zxvf nginx-1.8.0.tar.gz
+wget https://github.com/arut/nginx-rtmp-module/archive/master.zip
+unzip master.zip
+cd nginx-1.8.0
+./configure --with-http_ssl_module --add-module=../nginx-rtmp-module-master
+make
+sudo make install
+start nginx:  “sudo /usr/local/nginx/sbin/nginx” — “STOP!!!!”  if you get the error:  “nginx listen to 0.0.0.0:80  backlog failed address already in use” this is most likely because Apache2 is running to stop Apache2 as per above and run step 12 again.  Should be no errors.
+stop nginx:  sudo /usr/local/nginx/sbin/nginx -s stop
+Configure Nginx with RTMP by editing the file /usr/local/nginx/conf/nginx.conf and placing the following code into it at the end of the file:
+rtmp {
+
+server {
+
+listen 1935;
+
+chunk_size 4096;
+
+application live {
+
+live on;
+
+record off;
+
+}
+
+}
+
+}
+
+also in the file nginx.conf file modify the following if you are running another webserver package on your network:
+
+from:
+
+server {
+
+listen 80;
+
+to:
+
+server {
+
+listen 8080;
+
+The reason for doing the above “server” code change is to avoid a port 80 conflict should you also be running Apache2 or some other webserver package.  If you are not running another webserver package on your network then you do NOT need to make the above “server” modifications.
+
+Please note:  it is necessary to port forward TCP port 1935 in your router.
+
+after the above changes restart the nginx server:
+
+stop nginx:  sudo /usr/local/nginx/sbin/nginx -s stop
+start nginx:  “sudo /usr/local/nginx/sbin/nginx”
+TEST
+
+Point your browser to:  “http://your_nginx_server_ip” – you should see the nginx page.
+
+
+
+Using VLC enter into VLC’s url:  rtmp://your_domain_name/live/test i.e.,
+
+rtmp://my_dot_org/live/test
+
+Do your remember where “live” and “test came from?  Live came from the nginx.conf file and test came from the configuration we did/will do for OBS. VLC should now carry your live stream.
+
+Because I am currently using YouTube there is no stream for this nginx configuration.
