@@ -1,0 +1,476 @@
+#EXTM3U
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUSq0aFdUKIk7vsmIw5ZaCtTMQX0VbS4Cn5dnqeUSyBQE7kQEv",Eurosport4K HD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSHD.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUSq0aFdUKIk7vsmIw5ZaCtTMQX0VbS4Cn5dnqeUSyBQE7kQEv",Eurosport4K QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSQHD.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUSq0aFdUKIk7vsmIw5ZaCtTMQX0VbS4Cn5dnqeUSyBQE7kQEv",Eurosport4K UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
+
+
+         
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201910312102012011808579.jpg",TRUESPHD1 
+https://live.we-play.tv/app/thd1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png",TRUESPHD1 สำรอง
+https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201910312102102076396902.jpg",TRUESPHD2 
+https://live.we-play.tv/app/thd2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png",TRUESPHD2 สำรอง
+https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20191031210219558958694.jpg",TRUESPHD3
+https://live.we-play.tv/app/thd3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png",TRUESPHD3 สำรอง
+https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20191031210227112975786.jpg",TRUESPHD4 
+https://live.we-play.tv/app/thd4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png",TRUESPHD4 สำรอง
+https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201910312102381219585376.jpg",TRUESP2 
+https://live.we-play.tv/app/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png",TRUESP2 สำรอง
+https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201910312102451734108811.jpg",TRUESP5 
+https://live.we-play.tv/app/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/lPB8X3Ib9Ty7s5kuxn4b9ZSDhP7x84qKYinxdO4j.png",TRUESP5 สำรอง
+https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20191031210252320946587.jpg",TRUESP6 
+https://live.we-play.tv/app/tsp6/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/n3ke2CU0YHdnMFRPwf5N5lT4ebQ7W43dncgIahDZ.png",TRUESP6 สำรอง
+https://www.doofree88.com/streaming/sd-tsport6_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201910312103032084179461.jpg",TRUESP7
+https://live.we-play.tv/app/tsp7/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/m7B6xwNTlvbHLhSjGCdETasrb0dAzV55DBs5aUEv.png",TRUESP7 สำรอง
+https://www.doofree88.com/streaming/sd-tsport7_480/index.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201908091525211747166617.jpg",TRUE FOOTBALL1
+https://live.we-play.tv/app/true-epl-1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",TRUE FOOTBALL1 สำรอง
+https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201908091525301763258610.jpg",TRUE FOOTBALL2
+https://live.we-play.tv/app/tpf2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png",TRUE FOOTBALL2  สำรอง
+https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20190809152536854911609.jpg",TRUE FOOTBALL3
+https://live.we-play.tv/app/tpf3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png",TRUE FOOTBALL3สำรอง
+https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20190809152541378606833.jpg",TRUE FOOTBALL4
+https://live.we-play.tv/app/tpf4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png",TRUE FOOTBALL4 สำรอง
+https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201908091525471836078567.jpg",TRUE FOOTBALL5
+https://live.we-play.tv/app/tpf5/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png",TRUE FOOTBALL5  สำรอง
+https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201709061543191545087050.jpg",TRUE TENNIS
+https://live.we-play.tv/app/tennis/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20170906154345191916516.jpg",TRUE GOLF
+https://live.we-play.tv/app/golf/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201709061543561944494313.jpg",NBA
+https://live.we-play.tv/app/nba/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png",Fox Sports 1
+https://live.we-play.tv/app/fox1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png",Fox Sports 2
+https://live.we-play.tv/app/fox2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png",Fox Sports 3
+https://live.we-play.tv/app/fox3/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/EHym8OtlAt9b7pqIhetdRkgYC3GgkT0nPpwLJIFP.jpg",Eurosport
+https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/feZtADfMONGDhlFUR9I4wTtSYTP33ZSG53bGI4YQ.jpg",Eurosport 2
+https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/cU3T3OvaXwzj1SLM64AguujemwWr0oLjqCbRMm7l.png",NFL TV
+https://live.we-play.tv/app/nfl/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.inthemixstyle.com/wp-content/uploads/2019/11/Redbull-TV-HD.jpg",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="กีฬา",Fight Box
+https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201707091211381814727519.jpg",WWE Network
+http://s1.niacam.net:24621/mtg_2406_1/IyBf86mT158!1/502 
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="กีฬา",Dubai Racing 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="กีฬา",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8     
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/GypgFkWrS4WPGA9NKUtPqlwwARgUZLpnAX55hCv0.png",SMMTV
+https://www.doofree88.com/streaming/sd-smmtv_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/qKUl4foVSUw2mDtr7aRzVeyTv3ICjFMaYm9QjyFZ.png",T Sports
+https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/KsrwqWMt17G5NwpmNzb7G1xLQDU6r3MxJcCGsGcL.jpg",MUTV
+https://www.doofree88.com/streaming/uk-mutv_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/wyur49ADBz4J8vcuRGAjeSBiPh2u1VGZlIXqqOTo.png",LFC TV
+https://www.doofree88.com/streaming/uk-lfctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="กีฬา",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201911211358571247581591.jpg",BEIN1INTER
+https://live.we-play.tv/app/bein1inter/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201911211359421615024313.jpg",BEIN2INTER
+https://live.we-play.tv/app/bein2inter/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201911211400242121645252.jpg",BEIN3INTER
+https://live.we-play.tv/app/bein3inter/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/201911211400521237725613.jpg",BEIN4INTER
+https://live.we-play.tv/app/bein4inter/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20191121140213831794807.jpg",BEIN5INTER
+https://live.we-play.tv/app/bein5inter/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/CAxTtSK1kzeXB1JkSVZCUeATW0hZm01CszDpM2mf.png",Skynet Sports 1
+https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/Wc2gei2bXdp2wuQybln2ajZXNcwn5RCcQHHcL06u.png",Skynet Sports 2
+https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/SBzpXNHturMHeolEC8n0z7Iy3cgYJFsuzi7wU05p.png",Skynet Sports 3
+https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/NcP7REgCZmB1yJFZ2KiYquoiEqE6lrsCEqTYiO7g.png",Skynet Sports 4
+https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/aFu4Ce2bF7flypkEtNwgMAf9U5k2pMIzSylWFQG7.png",Skynet Sports 5
+https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/LuQJxIQa3wNQhPfioBRw7iJgEWylz9y2O2gHC7F6.png",Skynet Sports 6
+https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/h1Rubl94YjVCWFY74uW5uwQFs7ZunWIIAsPewED0.png",Skynet Sports HD
+https://www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20170912113805175537836.jpg",BTSPORT1
+https://live.we-play.tv/app/btsport1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20170912113810589440269.jpg",BTSPORT2
+https://live.we-play.tv/app/btsport2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doohdbox.com/assets/20170912113815289663388.jpg",BTSPORT3
+https://live.we-play.tv/app/btsport3/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg",Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/brPdiZCgXGLHVnhVpbYSHahPe35m196Ys5ndrqVa.jpg",Sky Sports News
+https://www.doofree88.com/streaming/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg",Sky Sports Mix
+https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg",Sky Sports Golf
+https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg",Sky Sports Cricket
+https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/fg3kZiHzaghpQ3DhPQlq70FAZCRHSmFA5yQUY7T2.jpg",SuperSport 1 HD
+https://www.doofree88.com/streaming/al-supersports1_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/W8OLbFkOO4uqSMaFoilhCQZvFQ6EAma8gHqf9aan.jpg",SuperSport 2 HD
+https://www.doofree88.com/streaming/al-supersports2_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/6Gp8QRvuiVY2CS5414cyLhAz0hNJIBxOxhQHSkGA.jpg",SuperSport 3 HD
+https://www.doofree88.com/streaming/al-supersports3_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/CcYpVxdwhBL9OWtWgku0q85xSKBJZnyp0phyHgFk.jpg",SuperSport 4 HD
+https://www.doofree88.com/streaming/al-supersports4_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/mdDw5MErCo84LT0SK0bBb77Lb4DXDoSl7Xn09oRC.jpg",SuperSport 5 HD
+https://www.doofree88.com/streaming/al-supersports5_480/index.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg",SPORT TV1
+https://live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv2.jpg",SPORT TV2
+https://live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv3.jpg",SPORT TV3
+https://live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv4.jpg",SPORT TV4
+https://live.mawintv2.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv5.jpg",SPORT TV5
+https://live.mawintv2.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/04rU7HlySfSYJlbQfPmG2mswjhVxd0L5OoGxI97B.jpg",ArenaSport 1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/GdYEwgGKz6kQqkabW3xUjshwjWQVEFoe8k5T5qhN.jpg",ArenaSport 2
+https://www.doofree88.com/streaming/rs-arena2_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/fjEDPikjYo3pj3wNw0VJ6fh1Zbss5YezDNIacsxG.jpg",ArenaSport 3
+https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/jS9VWEmtwOzLebgivfZ9MtXOgQjlC9lvM4ErbKbU.jpg",ArenaSport 4
+https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://www.doofree88.com/storage/live/KmhWF8JCZSSp2xoupFwanVIbCX3tuuYikIEhKP7i.jpg",ArenaSport 5
+https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
+
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://ak9.picdn.net/shutterstock/videos/7872409/thumb/3.jpg",Cinema 4K HD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://ak9.picdn.net/shutterstock/videos/7872409/thumb/3.jpg",Cinema 4K QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSQHD.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://ak9.picdn.net/shutterstock/videos/7872409/thumb/3.jpg",Cinema 4K UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",MOVIE 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",MOVIE 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-hd.png",Fox HD
+https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
+https://live.we-play.tv/app/fox-action/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
+https://live.we-play.tv/app/fox-movies/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/20170708153230368618994.jpg",HBO HD
+https://live.we-play.tv/app/hbo-hd/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/201707081536011077749229.jpg",HBO HITS
+https://live.we-play.tv/app/hbo-hits/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/201707081537071034876677.jpg",HBO FAMILY
+https://live.we-play.tv/app/hbo-fam/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doohdbox.com/assets/201707081534111087509977.jpg",HBO SIGNATURE
+https://live.we-play.tv/app/hbo-sig/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/warner-tv-hd.png",Warner TV (HD)
+https://live.we-play.tv/app/warner/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/bzmjALRvuNOOg3nXV1ShWMHzJ2y2nhG53UYjxpTn.png",AXN HD
+https://www.doofree88.com/streaming/hd-axn_720/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/gu3DRQdle7xPttwMgHXabXzoi4GFCs4UKTCRWFd3.jpg",FX HD
+https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/4clAGdMwizW2sp9gWlDNTVRDRze00uG7cqXHo7di.jpg",HBO Red
+https://live.we-play.tv/app/red/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/BhwjQsCEiOTNEO8NZwQtzoQtkTkBmxodv1pBPcHa.png",Movie Hits
+https://www.doofree88.com/streaming/sd-moviehits_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/l7rGApqqdYf65HxB9u1CprNqSt80Ipp4QEAGIcQH.png",Thai Film
+https://www.doofree88.com/streaming/sd-thaifilm_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/IadKP0HGGKXjQXKNj8ZCW4Kk4hT6PwhCbWVD9fMP.png",Film Asia
+https://www.doofree88.com/streaming/sd-filmasia_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",Asian Series
+https://www.doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/NqGTsPVIbsEAZHhInyGzaIJQliHNS0x80xzikAuY.png",X-Zyte HD
+https://live.we-play.tv/app/xzyte/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/7Fr0GIpJu7kNMaCRREN6bWTeS3fpRNnhStyytFB9.png",Comedy Central
+https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/YcuBg2IrYxaOznQqxJLIICPTVXKzL0DjCEkjEUdq.png",TVN
+https://www.doofree88.com/streaming/hd-tvn_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/aLDjKHW2HBKZvPOBGivsC40REeMZEZxHbeQRDFc8.jpg",Fox Crime
+https://live.we-play.tv/app/fox-crime/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",Fox Thai
+https://live.we-play.tv/app/foxth/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/UnFCrgcOuyQ3JoXKMSzpaTscsKX3tWsydPiDV7Mu.png",Fox Family Movies
+https://live.we-play.tv/app/fox-fam/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",Film HD
+https://live.we-play.tv/app/truefilmhd/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",Film HD 2
+https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/KOjCASg5FlaHOo2s9cEn9cc5tdL7ehybO1FaXmn8.png",Mono Plus
+https://www.doofree88.com/streaming/sd-monoplus_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
+https://live.we-play.tv/app/fox-life/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",Thrill
+https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png",Star Chinese Legends
+https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",Celestial Classic Movies
+https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/yEjduPUHEUuA3wvhqZxUUmuqDtnFk1YH0iHW4VPk.png",Z Nung
+https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20190905164925836391610.jpg",LOVE NATURE 4K HD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20190905164925836391610.jpg",LOVE NATURE 4K QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSQHD.m3u8 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20190905164925836391610.jpg",LOVE NATURE 4K UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201707081810541952908030.jpg",Explore Life
+https://www.doofree88.com/streaming/sd-explife_480/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201707081811561643526395.jpg",Explore Sci
+https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201707081810131564343204.jpg",Explore Wild
+https://www.doofree88.com/streaming/sd-expwild_480/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/20190709155450702842389.jpg",BBC Earth
+https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091554571983476306.jpg",BBC Lifestyle
+https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/2019021010055866420992.jpg",ANIMALPLANET 
+https://live.we-play.tv/app/animalplanet/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/2019021010055866420992.jpg",ANIMALPLANET สำรอง
+https://www.doofree88.com/streaming/sd-animalplaneteng_480/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/20170721182319325982392.jpg",MYSCIHD
+https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091558121872344538.jpg",SAMRUAJLOK 
+https://live.we-play.tv/app/samruajlok/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091558121872344538.jpg",SAMRUAJLOK สำรอง
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201911090916401945315438.jpg",DISCOVERY CHANNEL 
+https://live.we-play.tv/app/discovery/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201911090916401945315438.jpg",DISCOVERY CHANNEL สำรอง
+https://live.mawintv2.com/02_DiscoveryChannel/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",DISCOVERYASIA 
+https://live.we-play.tv/app/disasia/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",DISCOVERYASIA สำรอง
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20190429203225573015032.jpg" group-title="สารคดี",DISCOVERY TURBO
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="สารคดี",DISCOVERY SCIENCE
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091606261365883652.jpg",NATIONAL GEOGRAPHIC 
+https://live.we-play.tv/app/natgeo/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091606261365883652.jpg",NATIONAL GEOGRAPHIC สำรอง
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/20190709160636630477313.jpg",NATIONAL GEOWILD 
+https://live.we-play.tv/app/natwild/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/20190709160636630477313.jpg",NATIONAL GEOWILD สำรอง
+http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/aERcBjucC3rmuCHsezSxdHIyDW8xeL4yd4Mwq47u.jpg",Nat Geo People
+https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/aERcBjucC3rmuCHsezSxdHIyDW8xeL4yd4Mwq47u.jpg",Nat Geo People สำรอง
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091604591654272457.jpg",HISTORY 
+https://live.we-play.tv/app/history/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091604591654272457.jpg",HISTORY สำรอง
+https://www.doofree88.com/streaming/hd-history_720/index.m3u8
+
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091605101375332016.jpg",H2
+https://live.we-play.tv/app/h2/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/201907091605101375332016.jpg",H2 สำรอง
+https://www.doofree88.com/streaming/hd-history2_720/index.m3u8
+#EXTINF:-1 group-title="สารคดี",Outdoor Channel
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="สารคดี",DOCUBOX
+https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707141416571863713023.jpg",THAIRATHTV
+https://live.we-play.tv/app/thairathtv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707071612031032196127.jpg",CH3HD
+https://live.we-play.tv/app/ch3hd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707071619221482219051.jpg",CH7HD
+https://live.we-play.tv/app/ch7hd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg",CH5HD
+https://27.254.130.64/live01/ch6.m3u8?p=st
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707100802011139414219.jpg",MONO29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1522095171.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",MONO PLUS
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/20170804152543659647755.jpg",MCOTHD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/20170710190257130955573.jpg",NATIONTV
+http://27.254.130.64/live01/ch8.m3u8?p=st
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/20170719161721154334592.jpg",PPTV
+https://live.we-play.tv/app/pptv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707081536491016742040.jpg",WORKPOINT
+http://159.89.204.79:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707110922021435534746.jpg",TBPS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg",ONE31
+https://live.we-play.tv/app/one31/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://27.254.130.64/live01/ch11.m3u8?p=st
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=st
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+http://27.254.130.64/live01/ch13.m3u8?p=st
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg",Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg",ถิ่นใต้ IPTV
+http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",True Music
+https://www.doofree88.com/streaming/sd-tmusic_480/index.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/5ouYnRHS1fkfOb6PYiYqouPZaSjaXu7EaqVxqPj7.png",MTV Asia
+https://www.doofree88.com/streaming/sd-mtvasia_480/index.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/X42DhtwlyGtkbvFXG6YXlBmo0OXbXjUngkRoMxgC.png",MTV Live HD
+https://www.doofree88.com/streaming/hd-mtvlive_720/index.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/X42DhtwlyGtkbvFXG6YXlBmo0OXbXjUngkRoMxgC.png",MTV Live HD สำรอง
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="เพลง"tvg-logo="https://teevee-hd.com/img/channelv.png",CHANNEL V 1
+https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/0fOZOKWgUnuhwZqZbTD0gX3giN8qXydJoSwA4ml5.png",Thaiไทย
+https://www.doofree88.com/streaming/sd-thaithai_480/index.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/qOiElGfrlWNGIbP9Litoy0E2oxNM6S5br7a12145.png",Rama Channel
+https://www.doofree88.com/streaming/sd-rama_480/index.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://www.doofree88.com/storage/live/EXxpOqC7KM0oidaTRNScl0SH4P1ooINLIU70fmeZ.png",SabaideeTV
+https://www.doofree88.com/streaming/sd-sabaidee_480/index.m3u8
+#EXTINF:-1 group-title="เพลง"tvg-logo="https://teevee-hd.com/img/fantv.png",FAN TV
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="เพลง" tvg-logo="https://lh3.googleusercontent.com/proxy/9BbdOT3CO0hjXnJ9XuDSEmD3Z-8Qfjh_xx49FekW8fiXm1T5e0AhnVNSIRzQU-rkoP7zweOqMLUi1tbl",chill FM
+https://atimevideo.smartclick.co.th/live/chilllive.sdp/chunklist_w1126691597.m3u8
+#EXTINF:-1 group-title="เพลง"tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="เพลง",9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png" group-title="เพลง",360 Tunebox
+https://1485945756.rsc.cdn77.org/1485945756/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ChannelV.in.png" group-title="เพลง",Channel V 2
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",Spark Play
+https://www.doofree88.com/streaming/sd-sparkplay_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png",Spark Jump
+https://live.we-play.tv/app/sparkjump/playlist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/JzoHTUs2q2biHLCuA7VSweTffEGZuw2BXOuNcmpU.png",Cartoon Network
+https://live.we-play.tv/app/cnhd/playlist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
+https://live.we-play.tv/app/disneych/playlist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/SmO5GAyUQg3nsosglN9AkhbBNvGJM7ec7a3hCkOM.png",Disney XD
+https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/WS9zFADjQm64NYjcjJF399JKQuuyEckxe2lHOjH8.png",Cartoon Club
+https://www.doofree88.com/streaming/sd-cartoonclub_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/zbyQCkVPuldER0SC2f4d8VSiWEZW2ZHJiVbAzh8H.png",Boomerang
+https://www.doofree88.com/streaming/sd-boomerang_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/YUdiOBjfy5EloaKkCTL9yzUBlpl6vpRUb8msGqmq.png",Baby TV
+https://www.doofree88.com/streaming/sd-babytv_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/ftsWVzEOVL78VwJyBvzeBZSBP2IlJYMyhnkZ9Wpk.png",Miaomi
+https://www.doofree88.com/streaming/sd-miaomi_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick Jr
+https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.doohdbox.com/assets/201707121554061018416784.jpg",NICKELODEON
+https://live.we-play.tv/app/nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/disneyjr.jpg",DISNEY JUNIOR
+https://live.we-play.tv/app/disneyjr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="รายการเด็ก",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="รายการเด็ก",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/Cbeebies.au.png" group-title="รายการเด็ก",Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN
+https://www.doofree88.com/streaming/uk-cnn_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/ZvuIu06EKqZRUWjUqTrAeDIUZvysIago08LhvkAU.png",France24
+https://www.doofree88.com/streaming/sd-france24_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/6jbTTgALwz7KZVw4nT3Ib11dIcuhCOZ46SgZABF7.png",CCTV4
+https://www.doofree88.com/streaming/sd-cctv4_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
+https://www.doofree88.com/streaming/sd-news1_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/LGqpIOjGrx4GXQE4tHM2O9yC2vWEEZucCVG15Axz.png",Al Jazeera
+https://www.doofree88.com/streaming/sd-aljazeera_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/QAGePcypptJEZWHRhjZUw8iIM43XF9KoCLz5tg3R.png",Sky News
+https://www.doofree88.com/streaming/uk-skynews_480/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/roiCN0IiRtHxs6oqLR9wLs5unEH5VjFyfPSCLUm0.png",Fox News
+https://www.doofree88.com/streaming/sd-foxnews_720/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK World
+https://www.doofree88.com/streaming/sd-nhkworld_720/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://www.doofree88.com/storage/live/JWiDsdZZATdl4XPze9fhmarPGSO9CHR3pl0fprgy.png",Deutsche Welle
+https://www.doofree88.com/streaming/sd-deutschewelle_720/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",WFC TV International
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8  
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/24YMr085MLlamja0bYwZ5SWAywDg5pzhsOeZD3hP.png",M Channel
+https://www.doofree88.com/streaming/sd-mchannel_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/sVe55AbdMpO492YzHQzj84TO4O3Fc1wgZBJ1ilLU.png",Mix Major
+https://www.doofree88.com/streaming/sd-mixmajor_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/AZvqhgLqmZteAcBWWvHEpeDKkXK6Cr1csdbdPslQ.png",Channel 2
+https://www.doofree88.com/streaming/sd-ch2_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/2gtQ7DFd9Jtm8imXByouO4mMuSeBaOn1mVTQDyQ7.png",Dara Daily
+https://www.doofree88.com/streaming/sd-daradaily_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/F11IIW95oJ1PxGXZJK5PNDiVQNDBYrDi67DMEUHN.png",Wish
+https://www.doofree88.com/streaming/sd-wish_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/EITd6uJrDu0DYpiBEcuDYKSoDs3oCxiohCSOOyVB.png",Star Chinese Channel
+https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://www.doofree88.com/storage/live/ONZABRxe59xTjcpNrHUve67q67LDpb9KaEtp6TwQ.png",Arirang
+https://www.doofree88.com/streaming/sd-arirang_480/index.m3u8
