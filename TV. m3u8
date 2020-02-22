@@ -1,0 +1,190 @@
+update 15022020
+anurak
+
+#EXTM3U
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch3.png",CH3 HD
+https://live.mawintv2.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch5.png",CH5 HD
+https://live.mawintv2.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch7.png",CH7 HD
+https://live.mawintv2.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mcot.png",MCOT HD
+https://live.mawintv2.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-nbt.png",NBT HD
+https://live.mawintv2.com/02_NBTSD_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tpbs.png",THAI PBS HD
+https://live.mawintv2.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-thairath.png",ไทยรัฐ TV HD
+https://live.mawintv2.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-pptv.png",PPTV HD
+https://live.mawintv2.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-amarin.png",AMARIN HD
+https://live.mawintv2.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-gmmchannel.png",GMM CHANNEL HD
+https://live.mawintv2.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-gmmone.png",GMM ONE HD
+https://live.mawintv2.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-workpoint.png",WORKPOINT HD
+https://live.mawintv2.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch8.png",CH8 HD
+https://live.mawintv2.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mono.png",MONO29 HD
+https://live.mawintv2.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tnn24.png",TNN24 TV
+https://live.mawintv2.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-nation.png",NATION TV
+https://live.mawintv2.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-new.png",NEW TV
+https://live.mawintv2.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-24u.png",TRUE4U
+https://live.mawintv2.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein1.png",BEIN SPORT HD 1
+https://live.mawintv2.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein2.png",BEIN SPORT HD 2
+https://live.mawintv2.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport1.png",TRUE SPORT HD1
+https://live.mawintv2.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport2.png",TRUE SPORT HD2
+https://live.mawintv2.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",TRUE SPORT HD3
+https://live.mawintv2.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport4.png",TRUE SPORT HD4
+https://live.mawintv2.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-nba.png",NBA HD
+https://live.mawintv2.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tennis.png",TENNIS HD
+https://live.mawintv2.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-golf.png",GOLF CHANNEL HD
+https://live.mawintv2.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX SPORT HD1
+https://live.mawintv2.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports2.png",FOX SPORT 2
+https://live.mawintv2.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports3.png",FOX SPORT 3
+https://live.mawintv2.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport2.png",TRUE SPORT 2
+https://live.mawintv2.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport5.png",TRUE SPORT 5
+https://live.mawintv2.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport6.png",TRUE SPORT 6
+https://live.mawintv2.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport7.png",TRUE SPORT 7
+https://live.mawintv2.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-edge.png",EDGE HD
+https://stream6.xpeer-cdn.com/02_EDGEHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl1-2.png",Premier Football HD 1
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl2.png",Premier Football HD 2
+https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl3.png",Premier Football HD 3
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl4-1.png",Premier Football HD 4
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl5.png",Premier Football HD 5
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-warnertv.png",WARNER TV HD
+https://live.mawintv2.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-axn.png",AXN HD
+https://live.mawintv2.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxaction-1.png",FOX ACTION TH
+https://live.mawintv2.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxaction-1.png",FOX ACTION EN
+https://live.mawintv2.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxpremium.png",FOX MOVIES PREMIUM TH
+https://live.mawintv2.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxpremium.png",FOX MOVIES PREMIUM EN
+https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-fox.png",FOX THAI
+https://live.mawintv2.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-fox.png",FOX THAI EN
+https://live.mawintv2.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-fx-1.jpg",FX Thailand
+https://live.mawintv2.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-hbo.jpg",HBO HD
+https://live.mawintv2.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-hbohits.jpg",HBOHit HD
+https://live.mawintv2.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-hbosignature.jpg",HBOSignature HD
+https://live.mawintv2.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-screenred.jpg",RedbyHBO HD
+https://live.mawintv2.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxcrime.jpg",FoxCrimeHD TH
+https://live.mawintv2.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxcrime.jpg",FoxCrimeHD EN
+https://live.mawintv2.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxfamily.png",FOX FAMILY HD TH
+https://live.mawintv2.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxfamily.png",FOX FAMILY HD EN
+https://live.mawintv2.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-tfilm.jpg",TRUE FILM HD1
+https://live.mawintv2.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie ภาพยนต์" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-tfilm.jpg",TRU EFILM HD2
+https://live.mawintv2.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history.png",HISTORY HD
+https://live.mawintv2.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history2.png",HISTORY2 HD
+https://live.mawintv2.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-discovery.png",DISCOVERY HD WORLD
+https://live.mawintv2.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-discovery.png",DISCOVERY
+https://live.mawintv2.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-animalplanet.png",ANIMALPLANET
+https://live.mawintv2.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD TH
+https://live.mawintv2.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD EN
+https://live.mawintv2.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbcearth.png",BBC EARTH HD
+https://live.mawintv2.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://live.mawintv2.com/02_LIFETYLEHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeowild.jpg",NET GEO WILD HD TH
+https://live.mawintv2.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeowild.jpg",NET GEO WILD HD EN
+https://live.mawintv2.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeopeople.jpg",NET PEOPLE HD
+https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-discoveryscience.jpg",Science Channel
+https://stream6.xpeer-cdn.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-samrujlok.jpg",สำรวจโลก
+https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-mysci.jpg",MYSCI HD
+https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-cartoonnetwork-1.png",CARTOON NETWORK
+https://live.mawintv2.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-disney.png",DISNEY
+https://live.mawintv2.com/00_disney_480p/chunklist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-disneyxd.png",DISNEY XD
+https://live.mawintv2.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="รายการเด็ก" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-sparkjump.png",SPARK JUMP
+https://live.mawintv2.com/00_sparkjump_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uk-btsport1.jpg",BT SPORT HD1
+https://live.mawintv2.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uk-btsport2-1.jpg",BT SPORT HD2
+https://live.mawintv2.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uk-lfctv-1.png",LiverPool TV
+https://live.mawintv2.com/02_lfctv_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg",SPORT TV1
+https://live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv2.jpg",SPORT TV2
+https://live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv3.jpg",SPORT TV3
+https://live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv4.jpg",SPORT TV4
+https://live.mawintv2.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv5.jpg",SPORT TV5
+https://live.mawintv2.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png",SKYNET SPORT HD
+https://live.mawintv2.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports1.png",SKYNET SPORT 1
+https://live.mawintv2.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports2.png",SKYNET SPORT 2
+https://live.mawintv2.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports3.png",SKYNET SPORT 3
+https://live.mawintv2.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png",SKYNET SPORT 4
+https://live.mawintv2.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports5.png",SKYNET SPORT 5
+https://live.mawintv2.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SKYNET SPORT 6
+https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
