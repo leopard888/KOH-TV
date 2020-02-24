@@ -317,6 +317,9 @@ https://live.we-play.tv/app/discovery/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+https://lives1.nungbox.com/restream/discovey_480/chunks.m3u8
+
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD TH
 https://live.youlive-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
