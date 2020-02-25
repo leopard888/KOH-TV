@@ -1,0 +1,32 @@
+เนื่องจากข้าพเจ้าได้ออกจากกลุ่ม HD Player/Android box Club Thailand แล้วหลังกลุ่มปิด
+ที่จริงก็เลิกโพสก่อนกลุ่มปิดมาสักระยะนึงแล้ว ตั้งแต่การปรับเปลี่ยนสิทธิ์การโพสและอะไรบางอย่าง
+จะไม่มีการอัพเดทใดๆในกลุ่มเดิมอีกต่อไป (ไม่ต้องแท็กมาจากกลุ่มเดิมนะ) และจะไม่กลับไปอีกแล้ว
+จากการเปลี่ยนแปลงของกลุ่ม เมื่อมีการจ่ายเงิน ย่อมต้องมีการแสวงหาผลประโยชน์ ซึ่งขัดกับเจตนารมณ์ของข้าพเจ้า
+ดังนั้นจึงได้รวบรวมไฟล์ต่างๆทั้งใหม่และเก่าที่เคยแจกมาลงตรงนี้ทีเดียว
+
+ไฟล์ Gdrive Accounts config
+50Accounts_for_kodi http://bit.ly/2Vip3mh
+50Accounts_for_MixPlorer http://bit.ly/32oLIip
+
+Kodi for Android
+kodi-18.5-32bit-Thai v2.1(50account>special://xbmc) http://bit.ly/3a86e9l
+kodi-18.5-64bit-Thai v2.1(50account>special://xbmc) http://bit.ly/38ZdWCD
+kodi 17.6 32bit Thai v2.1 (50account>special://xbmc) http://bit.ly/2SXMY8X
+kodi 17.6 64bit Thai v2.1 (50account>special://xbmc) http://bit.ly/2PqddTc
+zdmc-18.4_Thai http://bit.ly/2wGW15n
+
+Kodi for Windows http://mirrors.kodi.tv/releases/windows/
+patch Thai for Kodi Windows http://bit.ly/2VkGylZ
+ลงAddonให้เรียบร้อยแล้วเอาไฟล์accountsไปไว้ที่
+Win+R >ใส่ค่านี้ลงไปแล้ว Enter
+%appdata%\kodi\userdata\addon_data\plugin.googledrive
+TV App for Android Box
+LINE TV (AndroidTV) 1.0.4_AndroidBox http://bit.ly/2VnRJKr
+WeTV - ATV 1.2.0.40008 for AndroidBox http://bit.ly/35qrRQe
+
+Android TV Mod App
+fwiptv-v5.3[AndroidTV] http://bit.ly/2s7PS04
+DooHDbox.MXplayer AndroidTV http://bit.ly/2KjjA8f
+DooHDboX-Native AndroidTV http://bit.ly/2KjYC9C
+xtream4k_v1.0 AndroidTV http://bit.ly/2qgRfIW
+Firefox (Android TV) 4.6 http://bit.ly/3c1CuwV
