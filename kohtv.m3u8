@@ -285,7 +285,7 @@ https://live.youlive-cdn.com/02_JKN_480p/chunklist.m3u8
 https://live.youlive-cdn.com/02_MChannel_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
-https://live.we-play.tv/app/history/playlist.m3u8
+http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/226.ts
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
@@ -294,7 +294,7 @@ https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 https://www.doofree88.com/streaming/hd-history_720/index.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
-https://live.we-play.tv/app/h2/playlist.m3u8
+http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/230.ts
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 https://www.doofree88.com/streaming/hd-history2_720/index.m3u8
@@ -318,7 +318,7 @@ https://live.we-play.tv/app/discovery/playlist.m3u8
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
-https://lives1.nungbox.com/restream/discovey_480/chunks.m3u8
+http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/456.ts
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD TH
 https://live.youlive-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
@@ -330,7 +330,7 @@ https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 https://www.doofree88.com/streaming/hd-natgeowild_720/index.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
-https://live.we-play.tv/app/natgeo/playlist.m3u8
+http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/363.ts
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
 https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
