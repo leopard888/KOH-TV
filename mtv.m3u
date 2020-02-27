@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69 TV
+https://edge2a.v2h-cdn.com/appt7/MediaOnline.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/10/DoChannal59.png",Do Channel
+https://edge2a.v2h-cdn.com/appt3/DoChannel.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",Esan TV
+https://edge2a.v2h-cdn.com/appt3/EsanTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
+https://edge2a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv.jpg",MVTV
+https://edge2a.v2h-cdn.com/appt7/MVTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvi.png",MVTV Chinese
+https://edge2a.v2h-cdn.com/appt7/WSM.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/five.jpg",MVTV Five Channel
+https://edge2a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/MHONG.png",MVTV Hmong
+https://edge2a.v2h-cdn.com/appt7/MHONG.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",MVTV Major Mix
+https://edge2a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",Thaibaan
+https://edge2a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
+https://edge2a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MVLao TV
+https://edge2a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg",MVM TV
+https://edge2a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",TVD2
+https://edge2a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png",Tookdee TV
+https://edge2a.v2h-cdn.com/appt7/Sanook.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="MVhub" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/01/TVB_TEST-300x240.png",Drama Thai
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
