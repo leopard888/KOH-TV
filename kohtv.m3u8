@@ -390,7 +390,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sabaideetv.smil/playli
 https://live.youlive-cdn.com/02_FANMUSICHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
-https://live.youlive-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
+http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
 https://live.we-play.tv/app/cnhd/playlist.m3u8
