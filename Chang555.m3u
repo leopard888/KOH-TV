@@ -143,3 +143,5 @@ https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #EXTINF:-1,bein 1
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
+#EXTINF:-1,Hit Movie
+http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
